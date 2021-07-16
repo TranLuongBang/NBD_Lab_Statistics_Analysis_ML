@@ -9,6 +9,8 @@ _________________________________________________
 
 Assignment
 
+## **Statistical Analysis**
+
 A) Extract 1 million of packets from the available data, replicate the statistical analysis observed during Lecture 2.
 
 FOLLOW the LIST!
@@ -35,6 +37,8 @@ FOLLOW the LIST!
 
 
 
+
+## **Machine Learning**
 
 B) Using the same dataset, you can cut the time interval as you want trying to replicate or Supervised or Unsupervised classification problem.
 
